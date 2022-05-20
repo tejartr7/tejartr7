@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raghu teja reddy sureddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejartr7&label=Profile%20views&color=0e75b6&style=flat" alt="tejartr7" /> </p>
 
@@ -18,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/(https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/)](https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/raghu-teja-reddy-sureddy-8b6721236/" height="30" width="40" /></a>
 <a href="https://fb.com/raghu teja rtr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="raghu teja rtr" height="30" width="40" /></a>
 <a href="https://instagram.com/tejartr445" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tejartr445" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/sai_123_sai" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sai_123_sai" height="30" width="40" /></a>
