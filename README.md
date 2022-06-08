@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejartr7" alt="tejartr7" /></a> </p>
 - 🔭 I’m currently working on **Front end web development**
 
+
 - 🌱 I’m currently learning **Java script**
 
 - 💬 Ask me about **Java-oops, c, embedded c, html, css**
