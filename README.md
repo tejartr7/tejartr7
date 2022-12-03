@@ -1,6 +1,6 @@
 <h1 align="center"> Hi 👋, I'm Raghu teja reddy sureddy</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<div style="display:block" >
+<div style="display:block ;"  >
 <img align="right" alt="Coding" width="60%" height="300" src="https://d6f6d0kpz0gyr.cloudfront.net/uploads/images-archive/Blog/Gifs/coding.gif"  style="padding:1% 20% 1% 5%;">
 </div>
 <p align="left" > <img src="https://komarev.com/ghpvc/?username=tejartr7&label=Profile%20views&color=0e75b6&style=flat" alt="tejartr7" /> </p>
