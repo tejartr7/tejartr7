@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Raghu Teja Reddy</h1>
 <h3 align="center">A passionate Web developer from the city of Hyderabad,India. I'm from VNR VJIET(Hyderabad).I'm person who is passionate in coding, competitive proramming,web development,IOT projects.</h3>
-
+<div> <img  src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt=""> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tejartr7&label=Profile%20views&color=0e75b6&style=flat" alt="tejartr7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejartr7" alt="tejartr7" /></a> </p>
