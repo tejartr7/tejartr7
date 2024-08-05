@@ -10,12 +10,7 @@ I'm a freelance developer with 2+years of experience who create digital products
 * ✉️  You can contact me at [rtrdev.me](https://rtrdev.me/)
 * 🧠  I'm Mastering Full Stack Developement , DSA
 * 🤝  I'm open to collaborating on Web development , Coding
-* ⚡  Feel free to dm at [Twitter](https://twitter.com/raghu\_rtr)
-
-<a href="https://www.github.com/tejartr7" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/tejartr7?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.x.com/raghu_rtr" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/raghu_rtr?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+* ⚡  Feel free to dm at rtr@rtrdev.me
 
 ### Skills
 
